@@ -1,4 +1,6 @@
-
+html{
+	scroll-behaviour: smooth;
+}
 h1{
 	color: #ffffff;
 	font-family: Arial;
